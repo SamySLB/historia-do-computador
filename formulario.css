@@ -1,0 +1,52 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color:#365b6d;
+    background-color:#ede5ba ;
+}
+header{
+    background-color:#c0b1e8 ;
+   border-radius: 5px;
+   margin: auto;
+   padding:10px;
+   align-content:baseline;
+}
+h1{
+    color:#f2f1ec ;
+    text-align: center;
+}
+.formulario{
+    background-color:#afdaef ;
+    border-radius: 3px;
+    margin: 25px;
+    padding:25px;
+    text-align: center;
+    align-content: baseline;
+}
+input[type="text"],input[type="email"]{
+    width:50%;
+    height: 25px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color:#f2f1ec ;
+    margin: 15px;
+   
+}
+
+input[type="submit"]{
+    margin: 15px;
+    padding: 15px;
+    background-color: bisque;
+    border-radius: 5px;
+    
+}
+
+footer{
+    background-color: #c0b1e8 ;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+   
